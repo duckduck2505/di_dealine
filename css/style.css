@@ -1,0 +1,13 @@
+h1 {
+	text-align: center;
+}
+
+.store {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background-color: rgb(238, 238, 238);
+}
+
+img {
+	object-fit: fill;
+}
